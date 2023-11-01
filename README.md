@@ -1,1 +1,1 @@
-REA
+This repository contain my first streamlit app made during a course.git 
